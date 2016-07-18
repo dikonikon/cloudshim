@@ -1,4 +1,4 @@
-What is a cloud shim?
+What is a cloud [shim](https://en.wikipedia.org/wiki/Shim_(computing))?
 
 You have developed a really great cloud-based product and you offer it to your customers as SaaS, out of your data centre or private cloud.
 
